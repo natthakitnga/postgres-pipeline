@@ -1,1 +1,4 @@
 env
+logs
+dags/__pycache__
+data/data_sample/*
